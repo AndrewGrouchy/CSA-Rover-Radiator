@@ -16,7 +16,7 @@ radiatorArea = 0.3**2 #+ 4*(0.05*0.3)
 
 rodWidth = 0.2
 rodArea = rodWidth**2
-rodThickness = 0.035 #IMPORTANT NOTE: For anodised Aluminium, must be 0.035 m, for oxidized Aluminium must be 0.01 m (due to T1 values acquired in line 29)
+rodThickness = 0.035 #IMPORTANT NOTE: For anodised Aluminium, must be 0.035 m, for oxidized Aluminium must be 0.01 m (due to T1 values acquired in line 39)
 
 marginArea = radiatorArea - rodArea
 
